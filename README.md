@@ -2,6 +2,10 @@
 
 A WebGL animation of the Aizawa Attractor. Clone the repo locally, open `index.html` and enjoy.
 
+## Online demo
+
+Online demo via JS Fiddle: https://jsfiddle.net/67x1swjn/
+
 ## References
 
 * https://www.algosome.com/articles/aizawa-attractor-chaos.html
