@@ -1,6 +1,6 @@
 # WebGL Aizawa
 
-A WebGL animation of the Aizawa Attractor. Open `index.html` and enjoy.
+A WebGL animation of the Aizawa Attractor. Clone the repo locally, open `index.html` and enjoy.
 
 ## References
 
